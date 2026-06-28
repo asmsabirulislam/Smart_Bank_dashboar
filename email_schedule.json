@@ -1,0 +1,18 @@
+{
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "nrgcyd@gmail.com",
+  "smtp_pass": "alpc vlni hpkb zxor",
+  "use_tls": true,
+  "from_name": "Bank Dashboard Reports",
+  "from_email": "nrgcyd@gmail.com",
+  "recipients": [
+    "sabirul@nrgroup-bd.com;tushar@nrgroup-bd.com"
+  ],
+  "schedule": "daily",
+  "send_day": "Monday",
+  "send_time": "05:20PM",
+  "last_sent": "2026-06-28T17:47:04.206532",
+  "report_title": "Bank Submit Bill Report",
+  "auto_enabled": false
+}

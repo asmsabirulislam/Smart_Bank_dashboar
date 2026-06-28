@@ -1,0 +1,454 @@
+{
+  "logs": [
+    {
+      "timestamp": "2026-06-28 17:47:04",
+      "user": "admin",
+      "action": "email_sent_manual",
+      "details": "Email sent to 1 recipient(s)"
+    },
+    {
+      "timestamp": "2026-06-28 17:32:16",
+      "user": "admin",
+      "action": "email_sent_manual",
+      "details": "Email sent to 1 recipient(s)"
+    },
+    {
+      "timestamp": "2026-06-28 17:32:06",
+      "user": "admin",
+      "action": "email_config_updated",
+      "details": "Email schedule settings updated"
+    },
+    {
+      "timestamp": "2026-06-28 17:30:47",
+      "user": "admin",
+      "action": "email_sent_manual",
+      "details": "Email sent to 1 recipient(s)"
+    },
+    {
+      "timestamp": "2026-06-28 17:27:08",
+      "user": "admin",
+      "action": "email_sent_manual",
+      "details": "Email sent to 1 recipient(s)"
+    },
+    {
+      "timestamp": "2026-06-28 17:26:16",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 17:20:46",
+      "user": "admin",
+      "action": "email_config_updated",
+      "details": "Email schedule settings updated"
+    },
+    {
+      "timestamp": "2026-06-28 17:19:46",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 17:16:02",
+      "user": "admin",
+      "action": "email_config_updated",
+      "details": "Email schedule settings updated"
+    },
+    {
+      "timestamp": "2026-06-28 17:15:25",
+      "user": "admin",
+      "action": "email_config_updated",
+      "details": "Email schedule settings updated"
+    },
+    {
+      "timestamp": "2026-06-28 17:14:34",
+      "user": "admin",
+      "action": "email_config_updated",
+      "details": "Email schedule settings updated"
+    },
+    {
+      "timestamp": "2026-06-28 17:14:14",
+      "user": "admin",
+      "action": "email_config_updated",
+      "details": "Email schedule settings updated"
+    },
+    {
+      "timestamp": "2026-06-28 16:42:15",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 16:37:20",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 15:57:09",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 15:46:37",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 09:04:30",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 09:01:29",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 08:54:33",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 08:51:09",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 08:30:47",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 08:18:10",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 08:06:34",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 07:56:09",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 07:43:09",
+      "user": "admin",
+      "action": "login",
+      "details": "Successful login"
+    },
+    {
+      "timestamp": "2026-06-28 03:06:41",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 03:05:39",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 03:04:55",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 03:01:48",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 03:00:38",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:58:20",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:56:29",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:55:09",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:52:46",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:48:42",
+      "user": "manager",
+      "action": "login",
+      "details": "Successful login"
+    },
+    {
+      "timestamp": "2026-06-28 02:48:13",
+      "user": "sales",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:48:06",
+      "user": "sales",
+      "action": "login",
+      "details": "Successful login"
+    },
+    {
+      "timestamp": "2026-06-28 02:46:54",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:44:42",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:41:52",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:37:16",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:33:16",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:27:14",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:26:02",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:20:31",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:18:04",
+      "user": "admin",
+      "action": "force_logout",
+      "details": "Killed session for: admin"
+    },
+    {
+      "timestamp": "2026-06-28 02:17:08",
+      "user": "admin",
+      "action": "user_updated",
+      "details": "Updated: admin"
+    },
+    {
+      "timestamp": "2026-06-28 02:16:00",
+      "user": "admin",
+      "action": "user_updated",
+      "details": "Updated: sales"
+    },
+    {
+      "timestamp": "2026-06-28 02:14:03",
+      "user": "admin",
+      "action": "user_deleted",
+      "details": "Deleted: yeasen"
+    },
+    {
+      "timestamp": "2026-06-28 02:13:03",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:11:00",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:06:44",
+      "user": "sales",
+      "action": "login_failed",
+      "details": "Attempt: sales"
+    },
+    {
+      "timestamp": "2026-06-28 02:06:39",
+      "user": "sales",
+      "action": "login_failed",
+      "details": "Attempt: sales"
+    },
+    {
+      "timestamp": "2026-06-28 02:04:22",
+      "user": "yeasen",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:02:30",
+      "user": "yeasen",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 02:00:42",
+      "user": "yeasen",
+      "action": "login",
+      "details": "Successful login"
+    },
+    {
+      "timestamp": "2026-06-28 02:00:11",
+      "user": "admin",
+      "action": "permissions_updated",
+      "details": "Updated for: yeasen"
+    },
+    {
+      "timestamp": "2026-06-28 01:59:17",
+      "user": "admin",
+      "action": "user_updated",
+      "details": "Updated: sales"
+    },
+    {
+      "timestamp": "2026-06-28 01:59:07",
+      "user": "admin",
+      "action": "user_updated",
+      "details": "Updated: sales"
+    },
+    {
+      "timestamp": "2026-06-28 01:58:33",
+      "user": "admin",
+      "action": "user_updated",
+      "details": "Updated: admin"
+    },
+    {
+      "timestamp": "2026-06-28 01:58:24",
+      "user": "admin",
+      "action": "user_created",
+      "details": "Created user: yeasen"
+    },
+    {
+      "timestamp": "2026-06-28 01:53:57",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 01:53:46",
+      "user": "manager",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 01:53:21",
+      "user": "manager",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 01:52:57",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 01:52:41",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 01:52:38",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 01:52:14",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 01:46:17",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 01:43:18",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 01:43:05",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 01:42:14",
+      "user": "manager",
+      "action": "login",
+      "details": "Successful login"
+    },
+    {
+      "timestamp": "2026-06-28 01:40:35",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 01:37:54",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    },
+    {
+      "timestamp": "2026-06-28 01:35:27",
+      "user": "admin",
+      "action": "login",
+      "details": "Auto-login via URL"
+    }
+  ]
+}

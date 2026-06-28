@@ -1,0 +1,54 @@
+{
+  "admin": {
+    "password": "bank@2026",
+    "role": "admin",
+    "name": "Administrator",
+    "email": "admin@company.com",
+    "status": "active",
+    "created_at": "2026-01-01",
+    "last_login": "2026-06-28 17:26:16",
+    "login_count": 39,
+    "permissions": [
+      "all"
+    ],
+    "sales_person": "admin"
+  },
+  "manager": {
+    "password": "manager123",
+    "role": "manager",
+    "name": "Manager",
+    "email": "manager@company.com",
+    "status": "active",
+    "created_at": "2026-01-01",
+    "last_login": "2026-06-28 02:48:42",
+    "login_count": 3,
+    "permissions": [
+      "all"
+    ],
+    "sales_person": ""
+  },
+  "sales": {
+    "password": "sales123",
+    "role": "sales",
+    "name": "Sales Team",
+    "email": "sales@company.com",
+    "status": "active",
+    "created_at": "2026-01-01",
+    "last_login": "2026-06-28 02:48:13",
+    "login_count": 2,
+    "permissions": [
+      "daily",
+      "overview",
+      "weekly",
+      "firm",
+      "banks",
+      "parties",
+      "payment",
+      "accept",
+      "asm",
+      "due",
+      "leaderboard"
+    ],
+    "sales_person": "Sales Team"
+  }
+}

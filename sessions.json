@@ -1,0 +1,239 @@
+{
+  "sessions": {
+    "7e1197e401ae": {
+      "user": "manager",
+      "login_time": "2026-06-28 01:42:14",
+      "last_active": "2026-06-28 01:42:14"
+    },
+    "c46947ff5ec9": {
+      "user": "admin",
+      "login_time": "2026-06-28 01:43:05",
+      "last_active": "2026-06-28 01:43:13"
+    },
+    "97601658eff1": {
+      "user": "admin",
+      "login_time": "2026-06-28 01:43:18",
+      "last_active": "2026-06-28 01:44:41"
+    },
+    "2a8a78f1236e": {
+      "user": "admin",
+      "login_time": "2026-06-28 01:46:18",
+      "last_active": "2026-06-28 01:47:19"
+    },
+    "6fe3c08a2090": {
+      "user": "admin",
+      "login_time": "2026-06-28 01:52:14",
+      "last_active": "2026-06-28 01:52:14"
+    },
+    "51f93368e68e": {
+      "user": "admin",
+      "login_time": "2026-06-28 01:52:38",
+      "last_active": "2026-06-28 01:52:38"
+    },
+    "59ef0b23ddb8": {
+      "user": "admin",
+      "login_time": "2026-06-28 01:52:41",
+      "last_active": "2026-06-28 01:52:41"
+    },
+    "cc0ef1cd9916": {
+      "user": "admin",
+      "login_time": "2026-06-28 01:52:57",
+      "last_active": "2026-06-28 01:52:57"
+    },
+    "047e65a8bbde": {
+      "user": "manager",
+      "login_time": "2026-06-28 01:53:21",
+      "last_active": "2026-06-28 01:53:21"
+    },
+    "c1eb9aa2c7fa": {
+      "user": "yeasen",
+      "login_time": "2026-06-28 02:00:42",
+      "last_active": "2026-06-28 02:00:42"
+    },
+    "44c30dbeff83": {
+      "user": "admin",
+      "login_time": "2026-06-28 01:53:57",
+      "last_active": "2026-06-28 02:06:58"
+    },
+    "1637de53b2de": {
+      "user": "yeasen",
+      "login_time": "2026-06-28 02:02:30",
+      "last_active": "2026-06-28 02:02:30"
+    },
+    "89b361751295": {
+      "user": "sales",
+      "login_time": "2026-06-28 02:48:06",
+      "last_active": "2026-06-28 02:48:06"
+    },
+    "79c72e44655a": {
+      "user": "admin",
+      "login_time": "2026-06-28 02:11:00",
+      "last_active": "2026-06-28 02:12:57"
+    },
+    "d35954dd1b2e": {
+      "user": "admin",
+      "login_time": "2026-06-28 02:20:31",
+      "last_active": "2026-06-28 02:20:39"
+    },
+    "89b694088e84": {
+      "user": "admin",
+      "login_time": "2026-06-28 02:26:02",
+      "last_active": "2026-06-28 02:26:18"
+    },
+    "ec3c1a0dc10e": {
+      "user": "admin",
+      "login_time": "2026-06-28 02:27:14",
+      "last_active": "2026-06-28 02:31:19"
+    },
+    "6aced538ab26": {
+      "user": "admin",
+      "login_time": "2026-06-28 02:33:16",
+      "last_active": "2026-06-28 02:33:24"
+    },
+    "fe2d74a37f22": {
+      "user": "admin",
+      "login_time": "2026-06-28 02:37:16",
+      "last_active": "2026-06-28 02:40:18"
+    },
+    "26586f8d5084": {
+      "user": "admin",
+      "login_time": "2026-06-28 02:41:52",
+      "last_active": "2026-06-28 02:43:05"
+    },
+    "4db65de3bca8": {
+      "user": "admin",
+      "login_time": "2026-06-28 02:44:42",
+      "last_active": "2026-06-28 02:44:42"
+    },
+    "1cd3396ad357": {
+      "user": "admin",
+      "login_time": "2026-06-28 02:46:54",
+      "last_active": "2026-06-28 02:47:02"
+    },
+    "a9df31480cc5": {
+      "user": "manager",
+      "login_time": "2026-06-28 02:48:42",
+      "last_active": "2026-06-28 02:49:37"
+    },
+    "6642c67fe1f3": {
+      "user": "admin",
+      "login_time": "2026-06-28 02:52:46",
+      "last_active": "2026-06-28 02:53:56"
+    },
+    "7353259a166f": {
+      "user": "admin",
+      "login_time": "2026-06-28 02:55:09",
+      "last_active": "2026-06-28 02:55:18"
+    },
+    "49f6772bca78": {
+      "user": "admin",
+      "login_time": "2026-06-28 02:56:30",
+      "last_active": "2026-06-28 02:56:38"
+    },
+    "fa1de6c682ed": {
+      "user": "admin",
+      "login_time": "2026-06-28 02:58:20",
+      "last_active": "2026-06-28 02:59:28"
+    },
+    "71ca0ef8ddd2": {
+      "user": "admin",
+      "login_time": "2026-06-28 03:00:38",
+      "last_active": "2026-06-28 03:00:47"
+    },
+    "47e37e98c79e": {
+      "user": "admin",
+      "login_time": "2026-06-28 03:01:48",
+      "last_active": "2026-06-28 03:01:56"
+    },
+    "a1af1d481149": {
+      "user": "admin",
+      "login_time": "2026-06-28 03:04:55",
+      "last_active": "2026-06-28 03:05:05"
+    },
+    "5c28f246da1f": {
+      "user": "admin",
+      "login_time": "2026-06-28 03:05:39",
+      "last_active": "2026-06-28 03:05:39"
+    },
+    "41a2953c8a3f": {
+      "user": "admin",
+      "login_time": "2026-06-28 03:06:41",
+      "last_active": "2026-06-28 03:06:53"
+    },
+    "d21332082477": {
+      "user": "admin",
+      "login_time": "2026-06-28 07:43:09",
+      "last_active": "2026-06-28 07:45:00"
+    },
+    "f9b07c187e83": {
+      "user": "admin",
+      "login_time": "2026-06-28 07:56:09",
+      "last_active": "2026-06-28 07:56:22"
+    },
+    "40041420edbb": {
+      "user": "admin",
+      "login_time": "2026-06-28 08:06:34",
+      "last_active": "2026-06-28 08:09:32"
+    },
+    "0c6d41956bfa": {
+      "user": "admin",
+      "login_time": "2026-06-28 08:18:10",
+      "last_active": "2026-06-28 08:29:40"
+    },
+    "4177a68edf9d": {
+      "user": "admin",
+      "login_time": "2026-06-28 08:30:47",
+      "last_active": "2026-06-28 08:49:18"
+    },
+    "220e701e9748": {
+      "user": "admin",
+      "login_time": "2026-06-28 08:51:09",
+      "last_active": "2026-06-28 08:51:19"
+    },
+    "5d1ab3150cf4": {
+      "user": "admin",
+      "login_time": "2026-06-28 08:54:33",
+      "last_active": "2026-06-28 08:54:43"
+    },
+    "b16fc54a54c9": {
+      "user": "admin",
+      "login_time": "2026-06-28 09:01:29",
+      "last_active": "2026-06-28 09:01:40"
+    },
+    "d16e1a57bb14": {
+      "user": "admin",
+      "login_time": "2026-06-28 09:04:30",
+      "last_active": "2026-06-28 09:04:41"
+    },
+    "3671c85258e6": {
+      "user": "admin",
+      "login_time": "2026-06-28 15:46:37",
+      "last_active": "2026-06-28 15:46:53"
+    },
+    "ce13f910d4c4": {
+      "user": "admin",
+      "login_time": "2026-06-28 15:57:09",
+      "last_active": "2026-06-28 15:57:17"
+    },
+    "20ae373102b5": {
+      "user": "admin",
+      "login_time": "2026-06-28 16:37:20",
+      "last_active": "2026-06-28 16:37:28"
+    },
+    "39407aa4386c": {
+      "user": "admin",
+      "login_time": "2026-06-28 16:42:15",
+      "last_active": "2026-06-28 17:19:34"
+    },
+    "0e2d9f3998f8": {
+      "user": "admin",
+      "login_time": "2026-06-28 17:19:46",
+      "last_active": "2026-06-28 17:48:10"
+    },
+    "f7247ee00ece": {
+      "user": "admin",
+      "login_time": "2026-06-28 17:26:16",
+      "last_active": "2026-06-28 17:46:56"
+    }
+  }
+}
